@@ -1,0 +1,6 @@
+{
+  "name": "دليلك الجامعي الجزائري الذكي",
+  "description": "منصة ويب جزائرية متخصصة في التوجيه الجامعي للناجحين في البكالوريا مع مستشار مهني ذكي مدعوم بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
